@@ -10,7 +10,8 @@ import { remarkReadingTime } from "./src/utils/remark-reading-time";
 // https://astro.build/config
 export default defineConfig({
 	// ! Please remember to replace the following site property with your own domain
-	site: "https://aeither.github.io/blog/",
+	site: "https://aeither.github.io",
+	base: "/blog",
 	markdown: {
 		remarkPlugins: [remarkUnwrapImages, remarkReadingTime],
 		remarkRehype: { footnoteLabelProperties: { className: [""] } },
