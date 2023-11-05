@@ -9,8 +9,6 @@ tags: ["example", "blog", "cool"]
 
 Following is an example blog post written in an mdx file. You can find me @ src/content/post/hello-world/index.mdx. Here you can add/update/delete details and watch the changes live when running in develop mode, `pnpm dev`
 
-![A pug in the woods, wrapped in a blanket](./pug.jpeg)
-
 ## Using some markdown elements
 
 Here we have a simple js code block.
