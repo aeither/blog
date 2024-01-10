@@ -1,7 +1,7 @@
 ---
 title: "Bangkok"
 publishDate: "10 Jan 2024"
-description: "Explore Bangkok's diverse neighborhoods: Siam for shopping, Sukhumvit for nightlife, Silom for finance and Lumpini Park, Chinatown for delicious food, Riverside for stunning views, and Khao San for a budget-friendly, backpacker experience in Thailand."
+description: "notes from visiting Bangkok."
 tags: ["travel", "thailand"]
 ---
 
@@ -24,6 +24,10 @@ below Phaya Thai is my personal centre of the city. It has the highest concentra
 Nice small and affordable coworking space. Free for residents. Cheapest option Dorm in 4 bed Room.
 Location: Right few steps from National Stadium Station - Silom Line
 
+### Travalier Hostel
+Dorms a bit small. Shared space (kitchen, sofa, table...) on first floor.
+Location: Close to Ratchathewi - Sukhumvit Line
+
 ### Siam Stadium Hostel
 Spacious room. the room facing big street are very noisy.
 Location: Wang Mai Subdistrict
@@ -34,6 +38,12 @@ Location: Wang Mai Subdistrict
 ### Naplab
 Nice cowoking space
 Location: Wang Mai Subdistrict
+
+### The Quarter Ladprao by UHG
+Good amendities and location: Gym, Swimming Pool, Awesome breakfast
+Location: Walking distance to Chatuchak Park, Union Mall, Central Ladprao
+Phahon Yothin - Blue line (Metro)
+Ha Yaek Lat Phrao Station - Sukhumvit Line (Train)
 
 ## Transport
 
