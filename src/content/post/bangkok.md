@@ -6,20 +6,24 @@ tags: ["travel", "thailand"]
 ---
 
 # Bangkok guide
+Stay in the month of December of 2023
 
 ## Neighborhoods
+Favourite areas
+- Pathum Wan: Shopping centers.  It is my personal centre of the city. It has the highest concentration of mall and space for events, conferences. Silom and Sukhumvit or green line that are well connect with other lines.
+- Wang Mai: Street Food, Chulalongkorn University Centenary Park, Backpacker Hostels
+- Chom Phon and Chatuchak: Close to Bus Station, Big Park, Weekend market, Malls, Street food/Restaurants, Hotels
 
-Siam: Shopping centers
-Sukhumvit: Night life
-Silom: Financial district, Lumpini Park
-Chinatown: Food
-Riverside: View
-Khao San: Cheap, Backpacker friendly
+Others
+- Sukhumvit road in Khlong Toei: Night life and tourists.
+- Silom: Financial district, Lumpini Park.
+- Chinatown: Food area. Personally I think it is over promoted. 
+- Riverside: Good View. There is a market and attractions. Attractions are Tourist trap but it worth a visit for sight-seeing.
+- Khao San: Promoted as for cheap, Backpacker friendly. Never been there.
 
-below Phaya Thai is my personal centre of the city. It has the highest concentration of mall and space for events, conferences. Siloam and green line that are well connect with are other BTS
+Ratchathewi
 
 ## Where to stay
-
 ### Lub d Bangkok Siam
 Nice small and affordable coworking space. Free for residents. Cheapest option Dorm in 4 bed Room.
 Location: Right few steps from National Stadium Station - Silom Line
