@@ -8,6 +8,12 @@ tags: ["travel", "thailand"]
 # Bangkok guide
 Stay in the month of December of 2023
 
+## SIM
+TRUE At 711 200 bhat, 30GB, 30 days
+
+## WIFI
+Available at airport and malls
+
 ## Neighborhoods
 Favourite areas
 - Pathum Wan: Shopping centers.  It is my personal centre of the city. It has the highest concentration of mall and space for events, conferences. Silom and Sukhumvit or green line that are well connect with other lines.
